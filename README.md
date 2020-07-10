@@ -7,9 +7,15 @@ Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter 
 Some fun facts:
 
 ✨ Even though I'm a Cloud Developer Advocate Lead at Microsoft I'm also a Google Developer Expert.
-✨ I have over 20 years' experience as a web and mobile developer, specializing in creating cross-platform mobile and web apps. 
-✨ I enjoy using machine learning solutions within a mobile and web context (applied ML)
-✨ Mostly these days I build with Vue.js
-✨ I also enjoy hardware hacking, with a strong presence on Hackster.io
-✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc. 
+
+✨ I have over 20 years' experience as a web and mobile developer, specializing in creating cross-platform mobile and web apps.
+
+✨ I enjoy using machine learning solutions within a mobile and web context (applied ML).
+
+✨ Mostly these days I build with Vue.js.
+
+✨ I also enjoy hardware hacking, with a strong presence on Hackster.io.
+
+✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc.
+
 ✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two college-aged daughters.
