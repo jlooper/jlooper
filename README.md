@@ -1,10 +1,10 @@
-###  JavaScript Auntie is here!
+#  JavaScript Auntie is here!
 
 <img alt="Queen of the Internet" border="0" height="236" src="http://image.blingee.com/images19/content/output/000/000/000/833/858545211_256285.gif" title="Queen of the Internet" width="400" />
 
 Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter [@jenlooper](http://twitter.com/jenlooper). Pronouns are she/her. 
 
-Some fun facts:
+## Some fun facts:
 
 ✨ Even though I'm a Cloud Developer Advocate Lead at Microsoft I'm also a Google Developer Expert.
 
