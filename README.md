@@ -2,17 +2,14 @@
 
 <img alt="Queen of the Internet" border="0" height="236" src="http://image.blingee.com/images19/content/output/000/000/000/833/858545211_256285.gif" title="Queen of the Internet" width="400" />
 
-<!--
-**jlooper/jlooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter [@jenlooper](http://twitter.com/jenlooper). Pronouns are she/her. 
 
-Here are some ideas to get you started:
+Some fun facts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Even though I'm a Cloud Developer Advocate Lead at Microsoft I'm also a Google Developer Expert.
+✨ I have over 20 years' experience as a web and mobile developer, specializing in creating cross-platform mobile and web apps. 
+✨ I enjoy using machine learning solutions within a mobile and web context (applied ML)
+✨ Mostly these days I build with Vue.js
+✨ I also enjoy hardware hacking, with a strong presence on Hackster.io
+✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc. 
+✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two college-aged daughters.
