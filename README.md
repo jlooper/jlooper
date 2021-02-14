@@ -16,6 +16,6 @@ Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter 
 
 ✨ I also enjoy hardware hacking, with a strong presence on Hackster.io.
 
-✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc.
+✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc. Now we are hosting a brand new worldwide online boot camp for women who want to skill up on the front-end: https://frontendfoxes.school. 
 
 ✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two college-aged daughters.
