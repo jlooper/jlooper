@@ -4,6 +4,12 @@
 
 Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter [@jenlooper](http://twitter.com/jenlooper). Pronouns are she/her. 
 
+## Projects of Note:
+
+I manage the Digital Humanities Toolbox, currently under development [here](https://github.com/Digital-Humanities-Toolbox).
+
+I also founded and am the Executive Director of the Front-End Foxes School, a boot camp for and by women, which you can find [here](https://frontendfoxes.school).
+
 ## Some fun facts:
 
 ✨ Even though I'm a Cloud Developer Advocate Lead at Microsoft I'm also a Google Developer Expert.
@@ -16,6 +22,6 @@ Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter 
 
 ✨ I also enjoy hardware hacking, with a strong presence on Hackster.io.
 
-✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc. Now we are hosting a brand new worldwide online boot camp for women who want to skill up on the front-end: https://frontendfoxes.school. 
+✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc.
 
 ✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two college-aged daughters.
