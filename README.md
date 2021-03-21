@@ -10,6 +10,10 @@ I manage the Digital Humanities Toolbox, currently under development [here](http
 
 I also founded and am the Executive Director of the Front-End Foxes School, a boot camp for and by women, which you can find [here](https://frontendfoxes.school).
 
+Visit Snappy Squirrel online e-books for kids [here](https://snappysquirrel.com).
+
+Enjoy [free Machine Learning zines](https://zines.jenlooper.com)!
+
 ## Some fun facts:
 
 ✨ Even though I'm a Cloud Developer Advocate Lead at Microsoft I'm also a Google Developer Expert.
