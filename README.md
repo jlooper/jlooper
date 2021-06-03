@@ -6,7 +6,7 @@ Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter 
 
 ## Projects of Note:
 
-I manage the Digital Humanities Toolbox, currently under development [here](https://github.com/Digital-Humanities-Toolbox).
+I manage the Digital Humanities Toolkit, currently under development [here](https://github.com/Digital-Humanities-Toolkit).
 
 I also founded and am the Executive Director of the Front-End Foxes School, a boot camp for and by women, which you can find [here](https://frontendfoxes.school).
 
