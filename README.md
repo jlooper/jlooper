@@ -1,8 +1,22 @@
-#  JavaScript Auntie is here!
+<p>
+  <h1 align="center"><b>JavaScript Auntie is here!</h1>
+</p>
+
+<p align="center">
+<a href="https://jenlooper.com"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Blog" /></a>&nbsp;
+<a href="https://twitter.com/jenlooper"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jen-looper-3442413/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=LinkedIn&logoColor=white alt="LinkedIn" /></a>&nbsp;
+<br/>
 
 <img alt="Queen of the Internet" border="0" height="236" src="http://image.blingee.com/images19/content/output/000/000/000/833/858545211_256285.gif" title="Queen of the Internet" width="400" />
+  <br/>
 
-Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter [@jenlooper](http://twitter.com/jenlooper). Pronouns are she/her. 
+<p align="center">Find me on the interwebz at <a href="http://jenlooper.com">jenlooper.com</a> or on Twitter <a href="http://twitter.com/jenlooper">@jenlooper</a>. Pronouns are she/her.</p>
+
+</p>
+
+
+
 
 ## Projects of Note:
 
