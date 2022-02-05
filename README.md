@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<a href="https://jenlooper.com"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Blog" /></a>&nbsp;
+<a href="https://jenlooper.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt="Blog" /></a>&nbsp;
 <a href="https://twitter.com/jenlooper"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jen-looper-3442413/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=LinkedIn&logoColor=white alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jen-looper-3442413/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" /></a>&nbsp;
 <br/>
 
 <img alt="Queen of the Internet" border="0" height="236" src="http://image.blingee.com/images19/content/output/000/000/000/833/858545211_256285.gif" title="Queen of the Internet" width="400" />
