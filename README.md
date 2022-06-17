@@ -32,7 +32,11 @@ Check out the Digital Humanities Toolkit, currently under development [here](htt
 
 ## Some fun facts:
 
-✨ I'm both a Cloud Developer Advocate at Microsoft and a Google Developer Expert.
+✨ I am Head of Academic Advocacy at AWS.
+
+✨ I worked at Microsoft and am a Google Developer Expert.
+
+✨ I teach at Boston University's Metropolitan School in the CS department.
 
 ✨ I have over 22 years' experience as a web and mobile developer, specializing in creating cross-platform mobile and web apps.
 
