@@ -34,7 +34,7 @@ Check out the Digital Humanities Toolkit, currently under development [here](htt
 
 ✨ I am Head of Academic Advocacy at AWS.
 
-✨ I worked at Microsoft and am a Google Developer Expert.
+✨ I worked at Microsoft for a while too, co-leading the Academic Team in DevRel among other activities.
 
 ✨ I teach at Boston University's Metropolitan School in the CS department.
 
