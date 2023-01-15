@@ -22,8 +22,6 @@
 
 I'm working on a textbook for kids in grades 6-8, published by Wiley, entitled **Computer Science for Kids**. Forthcoming in Spring 2023, it is alighted to CSTA standards and has a fun, game-driven storyline with bespoke print illustrations. Follow this project [here](https://github.com/cs4kids).
 
-I also founded and am the Executive Director of the Front-End Foxes School, a boot camp for and by women, which you can find [here](https://frontendfoxes.school).
-
 Visit Snappy Squirrel online e-books for kids [here](https://snappysquirrel.com).
 
 Enjoy [free Machine Learning zines](https://zines.jenlooper.com)!
@@ -43,7 +41,5 @@ Check out the Digital Humanities Toolkit, currently under development [here](htt
 ✨ I enjoy using machine learning solutions within a mobile and web context (applied ML).
 
 ✨ Mostly these days I build with Vue.js.
-
-✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc. We're in our fourth year and going strong.
 
 ✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two adult daughters
