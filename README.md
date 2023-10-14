@@ -15,7 +15,7 @@
 
 </p>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=jlooper&show_icons=true&theme=nightowl)
+<p align="center">![My stats](https://github-readme-stats.vercel.app/api?username=jlooper&show_icons=true&theme=nightowl)</p>
 
 
 ## Projects of Note:
