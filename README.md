@@ -19,9 +19,9 @@
 
 I'm working on a textbook for kids in grades 6-8, published by Wiley, entitled **Computer Science for Kids**. Forthcoming in Spring 2023, it is alighted to CSTA standards and has a fun, game-driven storyline with bespoke print illustrations. Follow this project [here](https://github.com/cs4kids).
 
-Visit Snappy Squirrel online e-books for kids [here](https://snappysquirrel.com).
-
 Enjoy [free Machine Learning zines](https://zines.jenlooper.com)!
+
+I founded Front-End Foxes, Inc., an international nonprofit, in 2018. Find our awesome [workshops](https://frontendfoxes.github.io/curriculum/) and [community recipe book](https://frontendfoxes.github.io/kitchen-sune/).
 
 Check out the Digital Humanities Toolkit, currently under development [here](https://github.com/Digital-Humanities-Toolkit).
 
@@ -29,7 +29,7 @@ Check out the Digital Humanities Toolkit, currently under development [here](htt
 
 ✨ I am Head of Academic Advocacy at AWS.
 
-✨ I worked at Microsoft for a while too, co-leading the Academic Team in DevRel among other activities.
+✨ I worked at Microsoft for several years, co-leading the Academic Team in DevRel among other activities. I've also worked in nonprofits, small startups, and medium sized companies.
 
 ✨ I've written some amazing curricula while at my time at Microsoft that ranks very high on GitHub and has millions of views. It's not in the shape I left it, but if you'd like to see it as I originally designed it, with images intact, a fork is [here](https://github.com/jlooper/Web-Dev-For-Beginners). This is how this curriculum was designed and should look. I also kept copies of the ML, AI, IoT and Data Science curricula which you can find here as well.
 
@@ -39,7 +39,7 @@ Check out the Digital Humanities Toolkit, currently under development [here](htt
 
 ✨ I enjoy using machine learning solutions within a mobile and web context (applied ML).
 
-✨ Mostly these days I build with Vue.js.
+✨ Mostly these days I build with Vue.js and Astro.
 
 ✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two adult daughters
 
