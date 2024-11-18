@@ -20,7 +20,7 @@
 
 I've published a textbook for kids in grades 6-8, published by Wiley, entitled **Computer Science for Kids**. It is alighted to CSTA standards and has a fun, game-driven storyline with bespoke print illustrations. Follow this project [here](https://github.com/cs4kids) and consider purchasing the book for the cool middle-schooler in your life!
 
-I also pubkished The Illustrated AWS Cloud, a visually-guided story-led approach to learning the fundamentals of Cloud Computing using AWS. Check out its web site [here](https://illustratedaws.cloud). All the author's proceeds from this book will go to [Code To Inspire](https://codetoinspire.org), a program helping women in Afghanistan learn to code.
+I also published **The Illustrated AWS Cloud**, a visually-guided story-led approach to learning the fundamentals of Cloud Computing using AWS. Check out its web site [here](https://illustratedaws.cloud). All the author's proceeds from this book will go to [Code To Inspire](https://codetoinspire.org), a program helping women in Afghanistan learn to code.
 
 Enjoy [free Machine Learning zines](https://zines.jenlooper.com)!
 
