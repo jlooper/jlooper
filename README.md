@@ -12,7 +12,7 @@
 <img alt="Queen of the Internet" border="0" height="236" src="http://image.blingee.com/images19/content/output/000/000/000/833/858545211_256285.gif" title="Queen of the Internet" width="400" />
   <br/>
 
-<p align="center">Find me on the interwebz at <a href="http://jenlooper.com">jenlooper.com</a> or on Twitter <a href="http://twitter.com/jenlooper">@jenlooper</a>. Pronouns are she/her.</p>
+<p align="center">Find me on the interwebz at <a href="http://jenlooper.com">jenlooper.com</a>. Pronouns are she/her.</p>
 
 </p>
 
