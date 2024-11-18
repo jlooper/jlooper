@@ -19,7 +19,7 @@
 
 I've published a textbook for kids in grades 6-8, published by Wiley, entitled **Computer Science for Kids**. It is alighted to CSTA standards and has a fun, game-driven storyline with bespoke print illustrations. Follow this project [here](https://github.com/cs4kids) and consider purchasing the book for the cool middle-schooler in your life!
 
-Forthcoming in December 2023 is my latest book, The Illustrated AWS Cloud, a visually-guided story-led approach to learning the fundamentals of Cloud Computing using AWS. Check out its web site [here](https://illustratedaws.cloud). All the author's proceeds from this book will go to [Code To Inspire](https://codetoinspire.org), a program helping women in Afghanistan learn to code.
+I also pubkished The Illustrated AWS Cloud, a visually-guided story-led approach to learning the fundamentals of Cloud Computing using AWS. Check out its web site [here](https://illustratedaws.cloud). All the author's proceeds from this book will go to [Code To Inspire](https://codetoinspire.org), a program helping women in Afghanistan learn to code.
 
 Enjoy [free Machine Learning zines](https://zines.jenlooper.com)!
 
@@ -29,9 +29,9 @@ Check out the Digital Humanities Toolkit, currently under development [here](htt
 
 ## Some fun facts:
 
-✨ I am Head of Academic Advocacy at AWS.
+✨ I was Head of Academic Advocacy at AWS before the company deprioritized grass-roots student outreach. When at AWS, I founded AWS Cloud Clubs, which great to 52K students globally in 32 countries. I'm very proud of what I was able to achieve despite significant budgetary and staffing headwinds.
 
-✨ I worked at Microsoft for several years, co-leading the Academic Team in DevRel among other activities. I've also worked in nonprofits, small startups, and medium sized companies.
+✨ I also worked at Microsoft for several years, co-leading the Academic Team in DevRel among other activities. I've also worked in nonprofits, small startups, and medium sized companies.
 
 ✨ I've written some amazing curricula while at my time at Microsoft that ranks very high on GitHub and has millions of views. It's not in the shape I left it, but if you'd like to see it as I originally designed it, with images intact, a fork is [here](https://github.com/jlooper/Web-Dev-For-Beginners). This is how this curriculum was designed and should look. I also kept copies of the ML, AI, IoT and Data Science curricula which you can find here as well.
 
