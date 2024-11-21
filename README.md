@@ -22,11 +22,9 @@ I've published a textbook for kids in grades 6-8, published by Wiley, entitled *
 
 I also published **The Illustrated AWS Cloud**, a visually-guided story-led approach to learning the fundamentals of Cloud Computing using AWS. Check out its web site [here](https://illustratedaws.cloud). All the author's proceeds from this book will go to [Code To Inspire](https://codetoinspire.org), a program helping women in Afghanistan learn to code.
 
-Enjoy [free Machine Learning zines](https://zines.jenlooper.com)!
-
 I founded Front-End Foxes, Inc., an international nonprofit, in 2018. Find our awesome [workshops](https://frontendfoxes.github.io/curriculum/) and [community recipe book](https://frontendfoxes.github.io/kitchen-sune/).
 
-Check out the Digital Humanities Toolkit, currently under development [here](https://github.com/Digital-Humanities-Toolkit).
+I also manage several GitHub organizations. Check out the Digital Humanities Toolkit at [here](https://github.com/Digital-Humanities-Toolkit).
 
 ## Some fun facts:
 
