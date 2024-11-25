@@ -24,7 +24,7 @@ I also published **The Illustrated AWS Cloud**, a visually-guided story-led appr
 
 I founded Front-End Foxes, Inc., an international nonprofit, in 2018. Find our awesome [workshops](https://frontendfoxes.github.io/curriculum/) and [community recipe book](https://frontendfoxes.github.io/kitchen-sune/).
 
-I also manage several GitHub organizations. Check out the Digital Humanities Toolkit at [here](https://github.com/Digital-Humanities-Toolkit).
+I also manage several GitHub organizations. Check out the Digital Humanities Toolkit [here](https://github.com/Digital-Humanities-Toolkit).
 
 ## Some fun facts:
 
