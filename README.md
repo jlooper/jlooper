@@ -28,15 +28,15 @@ I also manage several GitHub organizations. Check out the Digital Humanities Too
 
 ## Some fun facts:
 
-✨ I was Head of Academic Advocacy at AWS before the company deprioritized grass-roots student outreach. When at AWS, I founded AWS Cloud Clubs, which great to 52K students globally in 32 countries. I'm very proud of what I was able to achieve despite significant budgetary and staffing headwinds.
+✨ I was Head of Academic Advocacy at AWS before where I created, founded, and managed AWS Cloud Clubs, which grew to 53K+ students globally in 32 countries. I'm very proud of what I was able to achieve despite significant budgetary and staffing headwinds.
 
 ✨ I also worked at Microsoft for several years, co-leading the Academic Team in DevRel among other activities. I've also worked in nonprofits, small startups, and medium sized companies.
 
-✨ I've written some amazing curricula while at my time at Microsoft that ranks very high on GitHub and has millions of views. It's not in the shape I left it, but if you'd like to see it as I originally designed it, with images intact, a fork is [here](https://github.com/jlooper/Web-Dev-For-Beginners). This is how this curriculum was designed and should look. I also kept copies of the ML, AI, IoT and Data Science curricula which you can find here as well.
+✨ I've written some amazing curricula while at my time at Microsoft that ranks very high on GitHub and has millions of views. It's not in the shape I left it, but if you'd like to see it as I originally designed it, with videos and images intact, a fork is [here](https://github.com/jlooper/Web-Dev-For-Beginners). This is how this curriculum was designed and should look. I also kept copies of the ML, AI, IoT and Data Science curricula which you can find here as well.
 
 ✨ I teach occasionally at Boston University's Metropolitan School in the CS department.
 
-✨ I have over 23 years' experience as a web and mobile developer, specializing in creating cross-platform mobile and web apps.
+✨ I have over 24 years' experience as a web and mobile developer, specializing in creating cross-platform mobile and web apps.
 
 ✨ I enjoy using machine learning solutions within a mobile and web context (applied ML).
 
