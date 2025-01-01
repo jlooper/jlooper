@@ -28,7 +28,7 @@ I also manage several GitHub organizations. Check out the Digital Humanities Too
 
 ## Some fun facts:
 
-✨ I was Head of Academic Advocacy at AWS before where I created, founded, and managed AWS Cloud Clubs, which grew to 53K+ students globally in 32 countries.
+✨ As Head of Academic Advocacy at AWS, I created, founded, and managed AWS Cloud Clubs, which grew to 53K+ students globally in 32 countries. The Academic Team, which I led, was also responsible for creating curriculum accessible to students interested in upskilling in AWS technologies, including Camps and Learning Capsules, teaching infrastructure and AWS service fundamentals.
 
 ✨ I also worked at Microsoft for several years, co-leading the Academic Team in DevRel among other activities. I've also worked in nonprofits, small startups, and medium sized companies.
 
