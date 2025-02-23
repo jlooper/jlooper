@@ -9,11 +9,9 @@
 <a href="https://www.linkedin.com/in/jenlooper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>
 
-<p align="center">Find me on the interwebz at <a href="http://jenlooper.com">jenlooper.com</a>. Pronouns are she/her.</p>
-
 </p>
 
-## Projects of Note:
+## About my GitHub projects:
 
 I've published a textbook for kids in grades 6-8, published by Wiley, entitled **Computer Science for Kids**. It is aligned to CSTA standards and has a fun, game-driven storyline with bespoke print illustrations. Follow this project [here](https://github.com/cs4kids) and consider purchasing the book for the cool middle-schooler in your life!
 
