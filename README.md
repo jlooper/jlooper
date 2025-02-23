@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>JavaScript Auntie is here!</h1>
+  <h1 align="center"><b>Hi, I'm Jen!</h1>
 </p>
 
 <p align="center">
@@ -8,9 +8,6 @@
 <a href="https://twitter.com/jenlooper"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jenlooper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>
-
-<img alt="Queen of the Internet" border="0" height="236" src="http://image.blingee.com/images19/content/output/000/000/000/833/858545211_256285.gif" title="Queen of the Internet" width="400" />
-  <br/>
 
 <p align="center">Find me on the interwebz at <a href="http://jenlooper.com">jenlooper.com</a>. Pronouns are she/her.</p>
 
