@@ -39,7 +39,7 @@ I also manage several GitHub organizations. Check out the Digital Humanities Too
 
 ✨ I enjoy using machine learning solutions within a mobile and web context (applied ML).
 
-✨ Mostly these days I build with Vue.js and Astro, but I'm digging into next.js on the Vercel ecosystem.
+✨ Mostly these days I build with Vue.js and Astro.
 
 ✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two adult daughters
 
