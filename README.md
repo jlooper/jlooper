@@ -11,6 +11,10 @@
 
 </p>
 
+## I'm the Director of Developer Relations at Cloudinary
+
+Check out our projects at Cloudinary.com
+
 ## I'm a 3x Founder:
 
 <a href="https://beanpotstudio.com">Founder and CEO - Beanpot Studio</a>
