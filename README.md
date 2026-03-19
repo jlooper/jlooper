@@ -4,8 +4,8 @@
 
 <p align="center">
 <a href="https://jenlooper.com"><img src="https://img.shields.io/badge/jenlooper.com-000000" alt="Blog" /></a>&nbsp;
-<a href="[https://twitter.com/jenlooper](https://bsky.app/profile/jenlooper.com)"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>&nbsp;
-<a href="https://twitter.com/jenlooper"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://bsky.app/profile/jenlooper.com"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>&nbsp;
+<a href="https://x.com/jenlooper"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jenlooper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>
 
