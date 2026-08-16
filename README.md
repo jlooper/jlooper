@@ -45,6 +45,3 @@ I also manage several GitHub organizations. Check out the Digital Humanities Too
 
 ✨ Mostly these days I build with Vue.js and Astro.
 
-✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two adult daughters.
-
-![My stats](https://github-readme-stats.vercel.app/api?username=jlooper&show_icons=true&theme=nightowl)
